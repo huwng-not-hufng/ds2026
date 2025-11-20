@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Nguyen Viet Hung
+* Student ID: 23BI14188
 * Student Group ID: Not-for-now
