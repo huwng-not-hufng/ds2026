@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyễn Việt Hưng
 * Student ID: 23BI14188
-* Student Group ID: Not-for-now
+* Student Group ID: 6
