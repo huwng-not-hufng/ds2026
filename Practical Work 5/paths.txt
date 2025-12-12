@@ -1,0 +1,5 @@
+/usr/bin/python
+/var/log/syslog
+/home/user/PracticalWork/DistributedSystems/LongestPath/Project/v1/source/main.cpp
+/etc/hosts
+/tmp/short.txt
